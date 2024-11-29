@@ -64,7 +64,7 @@ function App(props) {
             align="center"
             className={classes.title}
           >
-            IJW
+            test
           </Typography>
           {new Date().toLocaleTimeString()}
         </Toolbar>
